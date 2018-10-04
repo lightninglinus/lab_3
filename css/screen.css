@@ -209,31 +209,31 @@ label {
 /* ===== STATE STYLES ======= */
 
 body {
-	text-align: center;
-	background-color: #ffffff;
-	position: top center;
+  text-align: center;
+  background-color: #ffffff;
+  position: top center;
 }
 
 input {
-    border: 0;
-	background-color: #e6e6e6;
-	padding: 5px 5px 5px 5px;
-	font-size: 16px;
-	border-radius: 6px;
-	padding: 10px;
-	padding-left: 30px;
-	padding-right: 30px;
+  border: 0;
+  background-color: #e6e6e6;
+  padding: 5px 5px 5px 5px;
+  font-size: 16px;
+  border-radius: 6px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 input[type=submit] {
-	border: none;
-	border-radius: 20px;
-	margin-top: 30px;
-	width: 180px;
-	height: 45px;
-	background-color: #e6e6e6;
-	font-family: 'Lobster', cursive;
-	font-size: 20px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 30px;
+  width: 180px;
+  height: 45px;
+  background-color: #e6e6e6;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
 }
 
 h1 {
